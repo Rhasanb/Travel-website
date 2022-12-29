@@ -1,0 +1,14 @@
+.bt{
+position: absolute;
+width: 600px;
+height: 600px;
+left: 600px;
+top: 45px;
+border-radius: 20px;
+transition: transform .1s;
+box-shadow: 2px solid gray;
+}
+
+.bt:hover{
+    transform: scale(1.2)
+}

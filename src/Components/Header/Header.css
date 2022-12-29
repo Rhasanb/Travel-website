@@ -1,0 +1,108 @@
+
+
+/* 
+.Header{
+    
+    text-align: center;
+
+    background: url("h1.png"),#C4C4C4;
+        
+    /* min-height: 700px; */
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 1440px;
+    height: 900px;
+
+    
+    
+
+    left: 0px;
+    top: 0px; */
+
+ 
+
+
+.Header nav{
+/* background-color: black;;
+line-height: 40px; */
+font-size: 20px;
+margin-top: 5px;
+
+
+
+}
+
+nav a{
+top: 4px;
+text-decoration:none ;
+color: white;;
+margin-right: 20px;
+padding: 5px;
+transition: transform .1s;
+
+
+}
+nav a:hover{
+/* background-color: gray; */
+border-radius: 5px;
+transform: scale(2)
+ 
+}
+
+
+
+nav input {
+
+    
+  box-sizing: border-box;
+  position: absolute;
+  width: 200px;
+  height: 40px;
+  left: 190px;
+  top: 5px;
+  color: #FFFFFF;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  transition: transform .1s;
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid #FFFFFF;
+  border-radius: 5px;
+  }
+  nav input:hover{
+    
+    transform: scale(1.2)
+  }
+  div h1{
+    color: white;
+  }
+  
+
+
+  
+
+ nav img{
+
+  height: 60px;
+  width: 60px;
+  position: relative;
+  top: 0px;
+  background: white;
+ 
+  left: 50px;
+  float:left;
+  
+
+
+
+
+  }
+
+
+  
+
+
